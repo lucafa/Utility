@@ -13,3 +13,5 @@ Example:
 $ ./live_host.sh list_ip
 
 port_scan.sh is a script to find open ports using netcat. It requires a file with a list of ip address and a file with a list of ports to knock
+
+foto_resize.sh is a script to resize image in subfolders
