@@ -1,5 +1,4 @@
 #!/bin/bash
-
 for i in `find . -iname '*.jpg' -type f`
 do
 	
@@ -21,3 +20,4 @@ do
 	fi	
 	
 done
+
