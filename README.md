@@ -19,3 +19,5 @@ foto_resize.sh is a script to resize image in subfolders
 backup.sh is a script to make a directory backup for Linux
 
 tablename2sql.py: is a python script to encode the table name during SQL injection attack
+
+stresstest.sh: is a simple script to conduct a stress test simulating several parallel connection 
